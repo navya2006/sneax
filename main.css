@@ -50,6 +50,10 @@ body{
     color: var(--colour4);
 }
 
+.abt .section1{
+    padding-bottom: 5%;
+}
+
 .abt .col-md-4{
     padding: 2%;
 }
@@ -85,4 +89,9 @@ body{
     height: 300px;
     width: 99%;
     padding-bottom: 5%;
+}
+
+.abt .img3{
+    height: 250px;
+    width: 100%;
 }
