@@ -65,6 +65,14 @@ body{
     padding-bottom: 3%;
 }
 
+.abt h2{
+    padding-top: 15%;
+    padding-left: 5%;
+    font-size: 60px;
+    color: var(--colour4);
+    padding-bottom: 13%;
+}
+
 .text{ 
     padding: 3%;
     padding-left: 7%;
@@ -87,11 +95,11 @@ body{
 
 .abt .img2{
     height: 300px;
-    width: 99%;
+    width: 87%;
     padding-bottom: 5%;
 }
 
 .abt .img3{
     height: 250px;
-    width: 100%;
+    width: 87%;
 }
